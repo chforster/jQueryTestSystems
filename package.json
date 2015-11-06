@@ -1,0 +1,21 @@
+{
+  "name": "testsystems",
+  "version": "1.0.0",
+  "description": "Project to test different TestFrameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chforster/jQueryTestSystems.git"
+  },
+  "author": "Forster Christoph",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/chforster/jQueryTestSystems/issues"
+  },
+  "devDependencies": {
+    "qunit": "~0.7.7"
+  }
+}
